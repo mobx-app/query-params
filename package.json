@@ -1,0 +1,26 @@
+{
+  "name": "@mobx-app/query-params",
+  "version": "0.0.1",
+  "description": "URL query parameters bindings for mobx-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobx-app/query-params.git"
+  },
+  "keywords": [
+    "react",
+    "mobx",
+    "mobx-app",
+    "url",
+    "query-params"
+  ],
+  "author": "Artur Smirnov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mobx-app/query-params/issues"
+  },
+  "homepage": "https://github.com/mobx-app/query-params#readme"
+}
