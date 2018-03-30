@@ -1,2 +1,2 @@
-# query-params
-URL query parameters bindings for mobx-app
+# routing
+Routing capabilities for mobx-app
